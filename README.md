@@ -1,0 +1,2 @@
+# advancedyii
+yii test app
